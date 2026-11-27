@@ -1,4 +1,7 @@
 package com.example.user.Exceptions;
 
-public class EmailAlreadyExistsException {
+public class EmailAlreadyExistsException extends RuntimeException{
+    public EmailAlreadyExistsException(String message) {
+        super(message);
+    }
 }
