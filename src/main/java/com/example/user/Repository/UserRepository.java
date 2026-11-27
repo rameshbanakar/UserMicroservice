@@ -1,0 +1,4 @@
+package com.example.user.Repository;
+
+public class UserRepository {
+}

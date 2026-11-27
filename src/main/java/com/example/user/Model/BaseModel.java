@@ -1,0 +1,4 @@
+package com.example.user.Model;
+
+public class BaseModel {
+}
